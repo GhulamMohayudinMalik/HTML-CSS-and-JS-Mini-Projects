@@ -8,3 +8,6 @@ https://ghulammohayudinmalik.github.io/HTML-CSS-and-JS-Mini-Projects/02-Progress
 
 3- Rotating Navigation 
 https://ghulammohayudinmalik.github.io/HTML-CSS-and-JS-Mini-Projects/03-Rotating-Navigation
+
+4- Hidden Search Widget 
+https://ghulammohayudinmalik.github.io/HTML-CSS-and-JS-Mini-Projects/04-Hidden-Search-Widget
