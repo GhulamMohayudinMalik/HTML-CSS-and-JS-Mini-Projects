@@ -6,3 +6,5 @@ https://ghulammohayudinmalik.github.io/HTML-CSS-and-JS-Mini-Projects/01-Expaning
 2- Progress Steps
 https://ghulammohayudinmalik.github.io/HTML-CSS-and-JS-Mini-Projects/02-Progress-Steps
 
+3- Rotating Navigation 
+https://ghulammohayudinmalik.github.io/HTML-CSS-and-JS-Mini-Projects/03-Rotating-Navigation
