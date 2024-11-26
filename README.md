@@ -14,3 +14,6 @@ https://ghulammohayudinmalik.github.io/HTML-CSS-and-JS-Mini-Projects/04-Hidden-S
 
 5- Blurry Loading  
 https://ghulammohayudinmalik.github.io/HTML-CSS-and-JS-Mini-Projects/05-Blurry-Loading
+
+6- Scroll Animation 
+https://ghulammohayudinmalik.github.io/HTML-CSS-and-JS-Mini-Projects/06-Scroll-Animation
