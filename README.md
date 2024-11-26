@@ -11,3 +11,6 @@ https://ghulammohayudinmalik.github.io/HTML-CSS-and-JS-Mini-Projects/03-Rotating
 
 4- Hidden Search Widget 
 https://ghulammohayudinmalik.github.io/HTML-CSS-and-JS-Mini-Projects/04-Hidden-Search-Widget
+
+5- Blurry Loading  
+https://ghulammohayudinmalik.github.io/HTML-CSS-and-JS-Mini-Projects/05-Blurry-Loading
